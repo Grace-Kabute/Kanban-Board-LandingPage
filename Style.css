@@ -39,6 +39,9 @@ li a:hover{
 button{
     padding:5px 10px;
 }
+button a{
+    color: black;
+}
 #feature{
     background-color: rgba(0, 0, 0, 0.762);
     color: white;
